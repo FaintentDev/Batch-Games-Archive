@@ -1,5 +1,5 @@
 
-::Created June 17, 2022 by (REDACTED)
+::Created June 17, 2022 by FaintentDev
 
 <!-- : Begin batch script
 
@@ -22,7 +22,7 @@ cls
 echo.
 echo.
 echo.
-echo  Created by (REDACTED)
+echo  Created by FaintentDev
 ping localhost -n 3 >nul
 )
 start /b cscript //nologo "%~f0?.wsf" //job:sound "boot.mp3"

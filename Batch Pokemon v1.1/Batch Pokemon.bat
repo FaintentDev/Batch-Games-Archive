@@ -2,7 +2,7 @@
 <!-- : Begin batch script
 
 :::::::::::::::::::::::::::::::::::::::::::::
-:: Created April 21, 2022 by (REDACTED) ::
+:: Created April 21, 2022 by FaintentDev ::
 :::::::::::::::::::::::::::::::::::::::::::::
 
 @echo off
@@ -638,8 +638,8 @@ cls
 echo.
 echo  .: Credits :.
 echo.
-echo Code ... (REDACTED)
-echo Design ... (REDACTED)
+echo Code ... FaintentDev
+echo Design ... FaintentDev
 echo Inspiration ... Nintendo / The Pokemon Company
 echo Music ... Nintendo / Various Artists
 pause>nul

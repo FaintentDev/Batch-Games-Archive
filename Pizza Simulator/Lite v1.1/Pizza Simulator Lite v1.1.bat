@@ -1,4 +1,4 @@
-::Pizza Simulator Lite by (REDACTED)
+::Pizza Simulator Lite by FaintentDev
 ::Feb 26, 2021
 
 

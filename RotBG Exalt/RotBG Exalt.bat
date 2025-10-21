@@ -1,5 +1,5 @@
 ::*****************************************************************************************************::
-::                           Created December 1, 2021 by (REDACTED)                                 ::
+::                           Created December 1, 2021 by FaintentDev                                 ::
 ::  Based off of the MMORPG Realm of the Mad God - https://www.realmeye.com/wiki/realm-of-the-mad-god  ::
 ::*****************************************************************************************************::
 
