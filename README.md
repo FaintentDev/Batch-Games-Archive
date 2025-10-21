@@ -4,6 +4,10 @@ These are some of my most significant batch projects, created over the course of
 
 This was back when I rarely finished any project I started and I couldnt get help from anybody, only a couple YouTube tutorials, articles, and public GitHub repos (AI wasnt accessible yet). I mainly just used command prompt and either Notepad or Notepad++ to create them.
 
+![image](./_images/icons.png)
+
+> Some of the projects include folder icons
+
 ### [Pizza Simulator Lite v1.1](./Pizza%20Simulator%20Lite%20v1.1)
 
 ![image](./_images/pizza_sim_lite_0.png)
